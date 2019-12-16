@@ -1,0 +1,42 @@
+body{
+    background-color: #515151;
+    color: #fff;
+    padding: 5em;
+font-family: 'Righteous', cursive;}
+
+h1,h2{text-align: center;}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+
+
+
+
+div {
+    position: relative;
+    width: 950px;
+}
+
+
+.arrow {
+    width: 30%;
+    position: absolute;
+    top: -180px;
+    right: 0;
+}
+
+
+
+p{width:750px;}
+
+p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em
+}
+.credits{font-size: 1.5em;
+    color: rgb(200,200,200);}
